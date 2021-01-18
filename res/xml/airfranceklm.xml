@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet href="dtbookbasic.css" type="text/css"?><!DOCTYPE dtbook PUBLIC
+        '-//NISO//DTD dtbook 2005-3//EN' 'http://www.daisy.org/z3986/2005/dtbook-2005-3.dtd' >
+<dtbook xmlns="http://www.daisy.org/z3986/2005/dtbook/" version="2005-3" xml:lang="en-US">
+    <head>
+        <meta name="dtb:uid" content="AUTO-UID-5059463624137734586"/>
+        <meta name="dt:version" content="2.0.0.0 Beta"/>
+        <meta name="dc:Title"
+              content="Selections from &quot;Great Pictures, As Seen and Described by Famous Writers&quot;"/>
+        <meta name="dc:Creator" content="Esther Singleton"/>
+        <meta name="dc:Date" content="2009-02-07"/>
+        <meta name="dc:Publisher" content="Marisa DeMeglio"/>
+        <meta name="dc:Identifier" content="AUTO-UID-5059463624137734586"/>
+        <meta name="dc:Language" content="en-US"/>
+    </head>
+    <book showin="blp">
+        <frontmatter>
+            <doctitle>Talks on more cash for Air France-KLM are moving slowly: FD</doctitle>
+            <docauthor>DutchNews</docauthor>
+        </frontmatter>
+        <bodymatter id="bodymatter_0001">
+            <level1>
+                <pagenum page="normal" id="page1">1</pagenum>
+                <h1>Talks on more cash for Air France-KLM are moving slowly: FD
+                </h1>
+                <byline xml:lang="en-US">Hans Aarsman
+                </byline>
+                <p>
+                    Talks between the Dutch and French governments on a new capital injection for airline Air France-KLM are proceeding slowly, the Financieele Dagblad said on Monday, quoting sources close to the negotiations. Two deadlines have already been missed and insiders say that the airline is not counting on there being a deal at the presentation of its annual results on February 18. KLM has already had a €3.4bn package from the Dutch state, while Air France has had €7bn from the French government. But now the Netherlands, the FD says, only wants to invest in Dutch arm of the airline, rather than the stock-exchange listed parent holding company. The French authorities argue that investing in the holding is crucial to both the Dutch and the French units. The FD says that the airline is not currently in difficulties and can continue with the already agreed investments for the time being. In addition, it points out, KLM is able to claim hundreds of millions of euros in wage support.
+                </p>
+                <p>
+                    <h2>New capital</h2>
+                </p>
+                <p>
+                    Nevertheless, the airline had negative shareholders equity of €4.7bn at the end of September and its financial stability has only eroded further since the new round of lockdowns. This means the airline needs new capital to restore its financial resilience, the FD said. CEO Ben Smith said in an interview last September that the French and Dutch government aid is enough to keep the airline going for less than 12 months. ‘We’re in discussion with our shareholders about how to reinforce our balance sheet beyond that period,’ Reuters quotes Smith as saying. Le Monde reported in November that the two government shareholders and other investors are in talks to raise a further €6bn.
+                </p>
+                <p>
+                    <imggroup>
+                        <img id="schipholImg" src="schiphol.jpg"
+                             alt="Photo: Depositphotos.com"/>
+                        <caption imgref="rId81">Airplanes at the terminal at Amsterdam Airport</caption>
+                    </imggroup>
+                </p>
+            </level1>
+        </bodymatter>
+    </book>
+</dtbook>

@@ -132,6 +132,3 @@ dmypy.json
 .idea
 
 # project-specific
-res/img/*.jpg
-res/img/*.png
-res/xml/*.xml
