@@ -8,7 +8,7 @@ from src.azure import analyze_azure
 #
 #  Note that this is all in English, whereas actual documents will be in Dutch
 def main():
-    context = load_xml('../res/xml/amsterdampolice.xml')
+    context = load_xml('../res/xml/airfranceklm.xml')
 
     for image in context['images']:
         description = analyze_azure(image['src'])

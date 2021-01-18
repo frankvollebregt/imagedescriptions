@@ -23,7 +23,7 @@ def analyze_azure(image_path):
     analyze_url = endpoint + "vision/v3.1/analyze"
 
     # Set image_path to the local path of an image that you want to analyze.
-    image_path = "C:/Users/fravo/Documents/Programmeren/Master Thesis/imagedescriptions/res/img/{}".format(image_path)
+    image_path = "../res/img/{}".format(image_path)
 
     # Read the image into a byte array
     image_data = open(image_path, "rb").read()
