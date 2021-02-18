@@ -132,3 +132,5 @@ dmypy.json
 .idea
 
 # project-specific
+res/img/reisgids/*.*
+res/img/tagged/*.*
