@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet href="dtbookbasic.css" type="text/css"?><!DOCTYPE dtbook PUBLIC
+        '-//NISO//DTD dtbook 2005-3//EN' 'http://www.daisy.org/z3986/2005/dtbook-2005-3.dtd' >
+<dtbook xmlns="http://www.daisy.org/z3986/2005/dtbook/" version="2005-3" xml:lang="en-US">
+    <head>
+        <meta name="dtb:uid" content="AUTO-UID-5059463624137734586"/>
+        <meta name="dt:version" content="2.0.0.0 Beta"/>
+        <meta name="dc:Title"
+              content="Drunk man steals tractor and leaves a trail of destruction in German town"/>
+        <meta name="dc:Creator" content="Esther Singleton"/>
+        <meta name="dc:Date" content="2009-02-07"/>
+        <meta name="dc:Publisher" content="Marisa DeMeglio"/>
+        <meta name="dc:Identifier" content="AUTO-UID-5059463624137734586"/>
+        <meta name="dc:Language" content="en-US"/>
+    </head>
+    <book showin="blp">
+        <frontmatter>
+            <doctitle>Drunk man steals tractor and leaves a trail of destruction in German town</doctitle>
+            <docauthor>DutchNews</docauthor>
+        </frontmatter>
+        <bodymatter id="bodymatter_0001">
+            <level1>
+                <pagenum page="normal" id="page1">1</pagenum>
+                <h1>Drunk man steals tractor and leaves a trail of destruction in German town
+                </h1>
+                <byline xml:lang="en-US">DutchNews
+                </byline>
+                <p>
+                    A drunk 23-year-old man from Radevormwald, Germany, stole a tractor last night and left a trail of destruction in the town. The tractor was equipped with a four-meter-wide snowplow, write German media.
+                </p>
+                <p>
+                    He caused nearly 100,000 euros in damage to buildings and vehicles in the municipality in the state of North Rhine-Westphalia. Among other things, he rammed a facade of a house, a fence, a garage and five cars. A 46-year-old driver was slightly injured in the collision with a car.
+                </p>
+                <p>
+                    Around 7:30 PM, the police received calls from the uproar. The man left the tractor in a supermarket parking lot. Police found the man there, still under the influence, near the tractor.                </p>
+                <p>
+                    <imggroup>
+                        <img id="tractorImg" src="tractor.jpg"
+                             alt="tractor image"/>
+                        <caption imgref="rId81">KREISPOLIZEIBEHÖRDE OBERBERGISCHER KREIS</caption>
+                    </imggroup>
+                </p>
+            </level1>
+        </bodymatter>
+    </book>
+</dtbook>

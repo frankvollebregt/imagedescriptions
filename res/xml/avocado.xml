@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?><?xml-stylesheet href="dtbookbasic.css" type="text/css"?><!DOCTYPE dtbook PUBLIC
+        '-//NISO//DTD dtbook 2005-3//EN' 'http://www.daisy.org/z3986/2005/dtbook-2005-3.dtd' >
+<dtbook xmlns="http://www.daisy.org/z3986/2005/dtbook/" version="2005-3" xml:lang="en-US">
+    <head>
+        <meta name="dtb:uid" content="AUTO-UID-5059463624137734586"/>
+        <meta name="dt:version" content="2.0.0.0 Beta"/>
+        <meta name="dc:Title"
+              content="Drunk man steals tractor and leaves a trail of destruction in German town"/>
+        <meta name="dc:Creator" content="Esther Singleton"/>
+        <meta name="dc:Date" content="2009-02-07"/>
+        <meta name="dc:Publisher" content="Marisa DeMeglio"/>
+        <meta name="dc:Identifier" content="AUTO-UID-5059463624137734586"/>
+        <meta name="dc:Language" content="en-US"/>
+    </head>
+    <book showin="blp">
+        <frontmatter>
+            <doctitle>Avocado cravings cannot be satisfied; imported more than billion euros in 'green gold'</doctitle>
+            <docauthor>NOS</docauthor>
+        </frontmatter>
+        <bodymatter id="bodymatter_0001">
+            <level1>
+                <pagenum page="normal" id="page1">1</pagenum>
+                <h1>Avocado cravings cannot be satisfied; imported more than billion euros in 'green gold'
+                </h1>
+                <byline xml:lang="en-US">DutchNews
+                </byline>
+                <p>
+                    No fruit is becoming more popular as quickly as the avocado. Last year, 1.1 billion euros worth of
+                    avocados were imported, according to figures from the Central Bureau of Statistics. It is now the
+                    number 1 of the fruits that come from abroad, if you look at the value of the fruit. With that, the
+                    avocado is over bananas, grapes and oranges.
+
+                    The Dutch eat much more avocados than before, an average of twelve avocados per year. That is almost
+                    four times as many as in 2008. Nevertheless, the popularity in other countries in particular leads
+                    to more and more of this fruit being imported. More than 90 percent of all avocados that come to the
+                    Netherlands are re-exported to other European countries.
+
+                    This makes the Netherlands the avocado hub of Europe. It is the largest avocado exporter of any
+                    country that does not grow avocados themselves.
+
+                    Mango or avocado
+                    Nature's Pride in Maasdijk is one of the companies that ripen avocados. It started fifteen years ago
+                    and then tried to increase its popularity.
+
+                    "We then started telling consumers in supermarkets that avocado is very tasty, they let them taste
+                    guacamole", says Adriëlle Dankier, commercial director of the company. She herself was in
+                    supermarkets to sell the fruit.
+
+                    "We actually thought mangos would become more popular than avocados, but the versatility of avocado
+                    has kept it growing."
+
+                    Each week, 1.5 million kilos of avocados enter the company. The company supplies to 28 countries,
+                    mainly Germany and Scandinavia. Some of the avocados have recently been given an extra protective
+                    layer so that they have a longer shelf life.
+
+                    According to the company, the stretch is far from out of growth. "Just over 30 percent of all people
+                    buy avocados," says Dankier. "We expect growth to continue. We are expanding and working on new
+                    additions."
+
+                    Tortilla chips
+                    Most avocados come from Peru, Chile, Colombia, South Africa and Mexico. Due to the increased demand
+                    for the 'green gold', more and more farmers are focusing on the cultivation of the fruit. This is
+                    criticized, because a lot of water is needed to grow avocados and forests are being cut down for it.
+
+                    Last year, researcher Manuel Ochoa Ayala called on the World Economic Forum website to consider this
+                    as a consumer. "What you eat with friends and family can devastate entire ecosystems. Think about
+                    that the next time you eat tortilla chips with guacamole dip."
+
+                    Production line in Maasdijk NOS
+
+                    Nature's Pride says it works with growers to produce sustainably and that there are projects to
+                    reduce water consumption.
+
+                    "It is also relative, the water consumption of avocados is only a fraction of the water consumption
+                    of meat," says Adriëlle Dankier. "Everything that grows needs water. It's about whether there is
+                    enough water in the area to make it sustainable. You have to make conscious choices about it."
+                </p>
+                <p>
+                    <imggroup>
+                        <img id="avocadoImg" src="avocado.jpg"
+                             alt="avocado image"/>
+                        <caption imgref="rId81">EPA</caption>
+                    </imggroup>
+                </p>
+            </level1>
+        </bodymatter>
+    </book>
+</dtbook>
