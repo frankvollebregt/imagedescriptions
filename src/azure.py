@@ -76,6 +76,11 @@ def get_json_path(image_path):
 
 
 if __name__ == '__main__':
-        for f in os.listdir("C:\\Users\\fravo\\Documents\\Programmeren\\Master Thesis\\imagedescriptions\\res\\img\\reisgids\\"):
-            print('### File {} ###'.format(f))
-            analyze_azure('reisgids/{}'.format(f))
+    # pass the name of an image file, placed inside the res/img folder, as argument to this
+    # file to analyze it
+    if len(sys.argv) > 1:
+        print(sys.argv)
+        analyze_azure(sys.argv[1])
+    else:
+        # have some default file to analyze
+        analyze_azure('dog.jpg')
