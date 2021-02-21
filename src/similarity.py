@@ -1,5 +1,6 @@
 from nltk.tokenize import word_tokenize
 from nltk import pos_tag
+from nltk.corpus import wordnet
 
 
 def extract_nouns(string):
@@ -21,3 +22,14 @@ def count_occurrences(target, text):
             count += 1
 
     return count
+
+
+def compute_similarity(noun, tag):
+    syns = wordnet.synsets(noun)
+    tagsyn = wordnet.synsets(tag)[0]
+
+    # see if any of the synonyms is the tag
+    syns_sim = [tagsyn.wup_similarity(syns[index]) for index in range(len(syns))]
+    syns_sim = [sim for sim in syns_sim if sim is not None]
+    # return the highest score
+    return max(syns_sim)
