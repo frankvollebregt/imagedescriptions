@@ -1,4 +1,5 @@
 import sys
+import pprint
 
 from src.azure import analyze_azure, get_analysis, get_json_path
 from src.similarity import extract_nouns, count_occurrences, compute_similarity
@@ -13,12 +14,12 @@ def analyze(xml_file):
     for image in context['images']:
         description = analyze_azure(image['src'])
         tags = get_analysis(get_json_path(image['src']))['tags']
-        print(tags)
+
+        # add synonyms to tags also
         tagsWithSyns = [wordnet.synsets(tag['name']) for tag in tags]
         tagsWithSyns = [item for sublist in tagsWithSyns for item in sublist]
         tagsWithSyns = [item.name().split('.')[0].replace('_', ' ') for item in tagsWithSyns]
         tagsWithSyns = list(set(tagsWithSyns))
-        print('with syns {}'.format(tagsWithSyns))
 
         occtags = []
 
@@ -32,7 +33,12 @@ def analyze(xml_file):
         # also count the occurrences for the nouns that are already in the description
         nouns = extract_nouns(description)
 
-        for noun in nouns:
+        nounsWithSyns = [wordnet.synsets(noun) for noun in nouns]
+        nounsWithSyns = [item for sublist in nounsWithSyns for item in sublist]
+        nounsWithSyns = [item.name().split('.')[0].replace('_', ' ') for item in nounsWithSyns]
+        nounsWithSyns = list(set(nounsWithSyns))
+
+        for noun in nounsWithSyns:
             occtags.append({
                 'tag': noun,
                 'occ': count_occurrences(noun, context['text'])
@@ -67,7 +73,7 @@ def analyze(xml_file):
                 alternatives[highestnoun] = [tag]
 
         # the first words in the occTags array are the most probable to be correct
-        print(alternatives)
+        print('word alternatives\n{}'.format(alternatives))
 
 
 if __name__ == '__main__':
