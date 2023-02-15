@@ -2,6 +2,8 @@ from nltk.tokenize import word_tokenize
 from nltk import pos_tag
 from nltk.corpus import wordnet
 
+# Some experimentation that was not used in the final work, but may still be of interest
+# Some functions to find similar words
 
 def extract_nouns(string):
     is_noun = lambda pos: pos[:2] == 'NN'
