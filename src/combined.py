@@ -58,7 +58,7 @@ def full_analysis(filename):
 
 if __name__ == '__main__':
     if len(sys.argv) < 2:
-        print('Usage: python combined.py')
+        print('Usage: python combined.py [filename]')
         exit(0)
     res = full_analysis(sys.argv[1])
 

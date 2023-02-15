@@ -1,16 +1,23 @@
-# imagedescriptions
-This repository stores the code used for my master thesis. The system should help the dutch Royal Library (KB) to more easily describe the images included in various different documents of text, such as news articles and magazines. These entail short, single-sentence descriptions.
+# Assisting Experts in Image Description for Visually Impaired People
+This repository contains the code used during the development, experimentation and analysis steps of my Master Thesis at the TU Delft.
+
+The aim is to help the KB National Library of the Netherlands, by improving the image description process for visually impaired people. Currently, this is a manual process, and our tool is a means to assist the experts writing these descriptions.
+
+
+## Finding the thesis
+For more information, you can find the thesis on the [TU Delft Repository](https://repository.tudelft.nl).
 
 ## Try it yourself
-The first version of analysis is already present. To try it, you can run the `analyze.py` file (in the src folder), passing to it, as an argument, the name of the XML file you'd like to analyze. For example:
+To try it, you can run the `combined.py` file (in the src folder), passing to it, as an argument, the name of the file you'd like to analyze. For example:
 ```
-python analze.py volcano.xml
+python combined.py wikipedia_WIT_dataset_file.gz
+python combined.py some_dtbook_file.xml
 ```
-Note that if the analysis via Microsoft Azure has been done before, it is not re-run. Instead, the results from the previous run are loaded from the `.json` file in the image folder. If you want to run images through Azure yourself, you'll need to add the API keys to your environment variables (as will be indicated by the error messages that are thrown).
+If you want to run your image through Microsoft Azure Image Analysis, you need to add the API keys to your environment variables (as will be indicated by the error messages that are returned).
 
-It is also possible to run only the image analysis. You can do this by running the `azure.py` file with the image file name you'd like to analyze. For example:
+It is also possible to run only the image analysis. You can do this by running the `src/azure/azure.py` file with the image file name you'd like to analyze. For example:
 ```
 python azure.py dog.jpg
 ```
 ## Just Azure
-Microsoft has also put the analyze image service online, to be used freely, if the only thing you're interested in is the image analysis. You can find it [on this website](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/#features). The information used (so far) in this project are the `Tags` and the caption in the `Description`.
+Microsoft has also put the analyze image service online, to be used freely, if the only thing you're interested in is the image analysis. You can find it [on this website](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/#features).
