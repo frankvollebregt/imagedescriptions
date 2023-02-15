@@ -1,0 +1,479 @@
+[
+    {
+        "ctx_title": "Koningsbergen",
+        "ctx_url": "https://nl.wikipedia.org/wiki/Koningsbergen",
+        "ctx_caption": "Slot van Koningsbergen in 1925",
+        "ctx": "Koningsbergen was een Duitse stad in Oost-Pruisen. Koningsbergen werd gesticht in 1255 en was van 1457 tot 1945 hoofdstad en zowel cultureel als economisch centrum van het oosten van Pruisen. Het was de meest oostelijk en noordelijk gelegen grote stad van het Duitse Rijk. De stad ligt in Samland, dicht bij de Oostzeekust tussen het Wislahaf en het Koerse Haf. De stad is van groot belang geweest in de Duitse geschiedenis en werd, nadat Oost-Pruisen na de Eerste Wereldoorlog van Duitsland gescheiden was, een van de economisch meest vooruitstrevende steden van Europa. Tijdens de Tweede Wereldoorlog werd de stad vrijwel volledig verwoest en daarna geannexeerd door de Sovjet-Unie en herbouwd onder de nieuwe naam Kaliningrad.",
+        "ctx_tags": [
+            {
+                "tag": "oostzeekust",
+                "score": 0.5207
+            },
+            {
+                "tag": "gelegen",
+                "score": 0.5099
+            },
+            {
+                "tag": "kaliningrad",
+                "score": 0.5004
+            },
+            {
+                "tag": "stad",
+                "score": 0.4957
+            },
+            {
+                "tag": "herbouwd",
+                "score": 0.4775
+            }
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/00/K%C3%B6nigsberg_%28Luftaufnahme%29.JPG",
+        "img_caption": "een zwart-witfoto van een stad",
+        "img_tags": [
+            {
+                "tag": "tekening",
+                "score": 0.9778131246566772
+            },
+            {
+                "tag": "schets",
+                "score": 0.9644944667816162
+            },
+            {
+                "tag": "zwart-wit",
+                "score": 0.8919709920883179
+            },
+            {
+                "tag": "abstract",
+                "score": 0.889147162437439
+            },
+            {
+                "tag": "kunst",
+                "score": 0.8362852334976196
+            }
+        ],
+        "type_name": "een informatief boek of tijdschrift"
+    },
+    {
+        "ctx_title": "Baronnies",
+        "ctx_url": "https://nl.wikipedia.org/wiki/Baronnies",
+        "ctx_caption": "Het landschap van de Baronnies (vallei van Ste-Jalle) vanaf de col de Soubeyrand",
+        "ctx": "De Baronnies zijn een Frans bergmassief dat deel uitmaakt van de Franse Voor-Alpen en een historische streek. Het grootste deel van de streek ligt in het departement Dr\u00f4me, maar het westelijke deel van de Hautes-Alpes en het noorden van de Vaucluse behoren eveneens tot de Baronnies. Het massief van de Baronnies is een middelgebergte dat wordt gerekend tot de Voor-Alpen van de Dauphin\u00e9. Ten noorden van de Baronnies ligt de Diois, ten zuiden liggen de Monts de Vaucluse met de Mont Ventoux en de Montagne de Lure.\nEr zijn twee stadjes in de Baronnies: Nyons en Buis.",
+        "ctx_tags": [
+            {
+                "tag": "stadjes",
+                "score": 0.5834
+            },
+            {
+                "tag": "nyons",
+                "score": 0.5734
+            },
+            {
+                "tag": "departement",
+                "score": 0.5523
+            },
+            {
+                "tag": "uitmaakt",
+                "score": 0.5463
+            },
+            {
+                "tag": "middelgebergte",
+                "score": 0.546
+            }
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Baronnies1.jpg",
+        "img_caption": "een veld van paarse bloemen",
+        "img_tags": [
+            {
+                "tag": "openlucht",
+                "score": 0.9969696998596191
+            },
+            {
+                "tag": "hemel",
+                "score": 0.9944952726364136
+            },
+            {
+                "tag": "landschap",
+                "score": 0.8960225582122803
+            },
+            {
+                "tag": "natuur",
+                "score": 0.8600541353225708
+            },
+            {
+                "tag": "boom",
+                "score": 0.7729629278182983
+            }
+        ],
+        "type_name": "een informatief boek of tijdschrift"
+    },
+    {
+        "ctx_title": "HH. Laurentius- en Elisabethkathedraal",
+        "ctx_url": "https://nl.wikipedia.org/wiki/HH._Laurentius-_en_Elisabethkathedraal",
+        "ctx_caption": "Laurentius- en Elisabethkathedraal",
+        "ctx": "De HH. Laurentius- en Elisabethkathedraal is een rooms-katholieke kerk in Rotterdam, in neoromaanse stijl gebouwd naar een ontwerp van P.G. Buskens. Sinds 1967 fungeert de kerk als kathedraal.\nDe kerk verrees in twee fasen. In de periode 1906-1908 werden koor, transept en schip gebouwd. Het tweetorenfront kwam tussen 1920 en 1922 tot stand. De eerste oorlogsschade liep de kerk op bij een Brits bombardement op 3 oktober 1941, toen de ingang en het dak en de koepel werden beschadigd. Bij een luchtaanval op het gebouw van de Sicherheitsdienst aan de Heemraadssingel op 29 november 1944 raakte een zijbeuk van de kerk zwaar beschadigd. Na de oorlog is deze schade hersteld.\nAanvankelijk heette de kerk Sint-Elisabethkerk en diende zij als parochiekerk. In 1956 werd Rotterdam een bisdom. Als kathedraal werd toen de Sint-Ignatiuskerk aan de Westzeedijk gekozen, die werd hernoemd naar de patroonheilige van de stad Rotterdam, Laurentius. Ook de naam van de middeleeuwse Sint-Laurenskerk in Rotterdam verwijst naar deze heilige. Die kerk is echter sinds 1572 protestants. In 1967 werd de Sint-Elisabethskerk de kathedraal van het Bisdom Rotterdam en kreeg zij de huidige naam.",
+        "ctx_tags": [
+            {
+                "tag": "elisabethkerk",
+                "score": 0.5713
+            },
+            {
+                "tag": "bisdom",
+                "score": 0.5627
+            },
+            {
+                "tag": "ignatiuskerk",
+                "score": 0.561
+            },
+            {
+                "tag": "elisabethskerk",
+                "score": 0.5459
+            },
+            {
+                "tag": "tweetorenfront",
+                "score": 0.5406
+            }
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/4/49/Rotterdam_mathenesserlaan_kathedraal.jpg",
+        "img_caption": "een kerk met een torenspits",
+        "img_tags": [
+            {
+                "tag": "boom",
+                "score": 0.9993634223937988
+            },
+            {
+                "tag": "openlucht",
+                "score": 0.999226987361908
+            },
+            {
+                "tag": "hemel",
+                "score": 0.9988948106765747
+            },
+            {
+                "tag": "gebouw",
+                "score": 0.9949307441711426
+            },
+            {
+                "tag": "kerk",
+                "score": 0.8539779186248779
+            }
+        ],
+        "type_name": "een informatief boek of tijdschrift"
+    },
+    {
+        "ctx_title": "Gegevens lijkvinding",
+        "ctx_url": "https://www.nemosciencemuseum.nl/nl/onderwijs/voortgezet-onderwijs/lesmateriaal/lesmateriaal/biologie-voor-vo-biowetenschappen-en-maatschappij/",
+        "ctx_caption": "-",
+        "ctx": "Datum en tijd: vrijdag 3 september, 15.40\nRuimte: De kamer waar de overledene is gevonden ligt op de begane grond. Een schuifdeur naar de achtertuin staat op een kier. De temperatuur in de kamer is vastgesteld op 18°C. \nLigging: De overledene ligt plat op zijn rug op een driezitsbank. Zijn hoofd ligt op een kussen. De rechterarm van de overledene ligt langs zijn lichaam; de linkerarm ligt op zijn borst. \nKleding: De overledene is gekleed in een dunne pantalon, een boxershort en een hemd zonder mouwen. Op de borstkas van de overledene ligt een pistool. \nLichaam: Midden op de borst (5 cm links van de rechter tepel) is een schotwond zichtbaar. Op de bovenzijde van de rechterarm, en de rechterschouder zijn lijkvlekken aanwezig (zie afbeelding). Lijkvlekken zijn wegdrukbaar. De lichaamstemperatuur (rectaal) is vastgesteld op 35,0°C.",
+        "ctx_tags": [
+            {
+                "tag": "lichaamstemperatuur",
+                "score": 0.6174
+            },
+            {
+                "tag": "linkerarm",
+                "score": 0.6024
+            },
+            {
+                "tag": "gekleed",
+                "score": 0.5933
+            },
+            {
+                "tag": "lijkvlekken",
+                "score": 0.586
+            },
+            {
+                "tag": "schotwond",
+                "score": 0.5816
+            }
+        ],
+        "img": "edu1.png",
+        "img_caption": "diagram",
+        "img_tags": [
+            {
+                "tag": "schets",
+                "score": 0.9955991506576538
+            },
+            {
+                "tag": "tekening",
+                "score": 0.9904026985168457
+            },
+            {
+                "tag": "illustratie",
+                "score": 0.8790888786315918
+            },
+            {
+                "tag": "tekenfilm",
+                "score": 0.798235297203064
+            },
+            {
+                "tag": "inkt",
+                "score": 0.7358826398849487
+            }
+        ],
+        "type_name": "een educatief lesprogramma"
+    },
+    {
+        "ctx_title": "Getuigenverklaringen",
+        "ctx_url": "https://www.nemosciencemuseum.nl/nl/onderwijs/voortgezet-onderwijs/lesmateriaal/lesmateriaal/biologie-voor-vo-biowetenschappen-en-maatschappij/",
+        "ctx_caption": "-",
+        "ctx": "5. Het komt ook voor dat een getuige zich iets herinnert wat helemaal niet is gebeurd. Lees het stukje tekst hieronder.\n\nStopbord of voorrangsbord? \nOnderzoekers lieten proefpersonen naar een filmpje kijken waarin een rode auto stopt voor een driehoekig voorrangsbord. Daarna werd aan de proefpersonen o.a. gevraagd of de auto die stopte voor het stopbord nog door een andere auto in werd gehaald. Een groot deel van de proefpersonen bleek zich later ‘te herinneren’ dat er inderdaad een stopbord was. (Loftus et al. 1978)",
+        "ctx_tags": [
+            {
+                "tag": "filmpje",
+                "score": 0.6384
+            },
+            {
+                "tag": "helemaal",
+                "score": 0.5796
+            },
+            {
+                "tag": "gehaald",
+                "score": 0.5742
+            },
+            {
+                "tag": "proefpersonen",
+                "score": 0.5731
+            },
+            {
+                "tag": "waarin",
+                "score": 0.5726
+            }
+        ],
+        "img": "edu2.png",
+        "img_caption": "pictogram",
+        "img_tags": [
+            {
+                "tag": "stop",
+                "score": 0.9955991506576538
+            },
+            {
+                "tag": "bord",
+                "score": 0.9904026985168457
+            },
+            {
+                "tag": "abstract",
+                "score": 0.8790888786315918
+            },
+            {
+                "tag": "tekst",
+                "score": 0.798235297203064
+            },
+            {
+                "tag": "vormgeving",
+                "score": 0.7358826398849487
+            }
+        ],
+        "type_name": "een educatief lesprogramma"
+    },
+    {
+        "ctx_title": "Het spel van de Gouden Eeuw",
+        "ctx_url": "https://www.nemosciencemuseum.nl/nl/onderwijs/voortgezet-onderwijs/lesmateriaal/lesmateriaal/overig-voor-vo/",
+        "ctx_caption": "Foto: replica van de Prins Willem / Bron: Dirk van der Made",
+        "ctx": "Na een aantal succesvolle reizen van en naar Indië, verging VOC-schip Prins Willem in 1662. De volledige bemanning liet het leven en de hele lading ging verloren.",
+        "ctx_tags": [
+            {
+                "tag": "verging",
+                "score": 0.5684
+            },
+            {
+                "tag": "schip",
+                "score": 0.5318
+            },
+            {
+                "tag": "liet",
+                "score": 0.5314
+            },
+            {
+                "tag": "succesvolle",
+                "score": 0.5273
+            },
+            {
+                "tag": "volledige",
+                "score": 0.5233
+            }
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Sail_amsterdam_05_stern_prins_willem.jpg",
+        "img_caption": "een groot schip aangemeerd",
+        "img_tags": [
+            {
+                "tag": "lucht",
+                "score": 0.9934
+            },
+            {
+                "tag": "openlucht",
+                "score": 0.9599
+            },
+            {
+                "tag": "boot",
+                "score": 0.9402
+            },
+            {
+                "tag": "transport",
+                "score": 0.9290
+            },
+            {
+                "tag": "schip",
+                "score": 0.8687
+            }
+        ],
+        "type_name": "een educatief lesprogramma"
+    },
+    {
+        "ctx_title": "Dronken man steelt tractor en laat in Duitse plaats spoor van vernieling achter",
+        "ctx_url": "https://nos.nl/artikel/2367020-dronken-man-steelt-tractor-en-laat-in-duitse-plaats-spoor-van-vernieling-achter",
+        "ctx_caption": "KREISPOLIZEIBEHÖRDE OBERBERGISCHER KREIS",
+        "ctx": "Een dronken 23-jarige man uit het Duitse Radevormwald heeft gisteravond een tractor gestolen en daarna een spoor van vernieling in de gemeente achtergelaten. De tractor was uitgerust met een vier meter brede sneeuwschuiver, schrijven Duitse media. Hij heeft voor bijna 100.000 euro aan schade aan gebouwen en voertuigen aangericht in de gemeente in de deelstaat Noordrijn-Westfalen. Hij ramde onder meer een gevel van een huis, een schutting, een garage en vijf auto's. Bij de botsing met een auto raakte een 46-jarige bestuurder lichtgewond. Rond 19.30 uur kreeg de politie oproepen binnen van het tumult. De man liet de tractor achter op een parkeerplaats van een supermarkt. De politie vond de man daar, nog steeds onder invloed, in de buurt van de tractor.",
+        "ctx_tags": [
+            {
+                "tag": "ramde",
+                "score": 0.4701
+            },
+            {
+                "tag": "jarige",
+                "score": 0.4576
+            },
+            {
+                "tag": "raakte",
+                "score": 0.4402
+            },
+            {
+                "tag": "sneeuwschuiver",
+                "score": 0.4396
+            },
+            {
+                "tag": "schade",
+                "score": 0.4339
+            }
+        ],
+        "img": "https://cdn.nos.nl/image/2021/02/02/712171/2560x1440a.jpg",
+        "img_caption": "een tractor met aanhangwagen",
+        "img_tags": [
+            {
+                "tag": "band",
+                "score": 0.9471
+            },
+            {
+                "tag": "landvoertuig",
+                "score": 0.9385
+            },
+            {
+                "tag": "wiel",
+                "score": 0.9239
+            },
+            {
+                "tag": "voertuig",
+                "score": 0.9095
+            },
+            {
+                "tag": "auto-onderdeel",
+                "score": 0.8290
+            }
+        ],
+        "type_name": "een krant of nieuwswebsite"
+    },
+    {
+        "ctx_title": "CO2-uitstoot door natuurbranden in 2021 hoogste ooit",
+        "ctx_url": "https://nos.nl/artikel/2408650-co2-uitstoot-door-natuurbranden-in-2021-hoogste-ooit",
+        "ctx_caption": "Bosbranden in het zuiden van Frankrijk, afgelopen zomer",
+        "ctx": "Natuurbranden veroorzaakten het afgelopen jaar naar schatting ongeveer 1760 megaton aan CO2-uitstoot. Dat is een record voor wat betreft de uitstoot door bosbranden, berekende het aarde-observatieprogramma van de Europese Unie, Copernicus. Door klimaatverandering zullen er steeds vaker bosbranden zijn, denken de wetenschappers van het programma. \"Hoge temperaturen, heftige onweersbuien, harde wind en ander extreem weer gaan steeds vaker voorkomen\", schrijft het Copernicus. Ook Sander Veraverbeke, klimaatwetenschapper aan de Vrije Universiteit Amsterdam, ziet een duidelijke trend. \"Als ik terugdenk aan vorige zomer met al die grote branden in het Middellandse Zeegebied, in de Verenigde Staten en Canada, en in Oost-Siberië, ben ik niet verwonderd dat dat nu tot records leidt\", zegt hij in het NOS Radio 1 Journaal. Vooral in de zomer op het noordelijk halfrond was er sprake van veel uitstoot, meldde Copernicus eerder. In juli en augustus werden er al records verbroken.",
+        "ctx_tags": [
+            {
+                "tag": "schrijft",
+                "score": 0.5801
+            },
+            {
+                "tag": "meldde",
+                "score": 0.5627
+            },
+            {
+                "tag": "wetenschappers",
+                "score": 0.538
+            },
+            {
+                "tag": "natuurbranden",
+                "score": 0.5366
+            },
+            {
+                "tag": "heftige",
+                "score": 0.53
+            }
+        ],
+        "img": "https://cdn.nos.nl/image/2021/12/08/810105/2560x1440a.jpg",
+        "img_caption": "een groep mensen in een bos",
+        "img_tags": [
+            {
+                "tag": "boom",
+                "score": 0.9996
+            },
+            {
+                "tag": "openlucht",
+                "score": 0.9992
+            },
+            {
+                "tag": "sneeuw",
+                "score": 0.9764
+            },
+            {
+                "tag": "skiën",
+                "score": 0.9289
+            },
+            {
+                "tag": "brandweerman",
+                "score": 0.7981
+            }
+        ],
+        "type_name": "een krant of nieuwswebsite"
+    },
+    {
+        "ctx_title": "Eerste torenvalk geboren in nest op balkon in Terneuzen",
+        "ctx_url": "https://nos.nl/artikel/2408650-co2-uitstoot-door-natuurbranden-in-2021-hoogste-ooit",
+        "ctx_caption": "De eieren op het balkon",
+        "ctx": "Het eerste ei van een torenvalk op een balkon in Terneuzen is uitgekomen. De andere eieren in het nest zijn nog heel. Eind mei bouwde een koppel torenvalken hun nest op het balkon. De torenvalk is een beschermde soort en dus liet de bewoner de vogels in alle rust broeden. Na ruim dertig dagen wachten, is de eerste torenvalk geboren, net nu de bewoner er niet is. Otto Peltzer, die op het huis past, ontdekte het kuiken vanmiddag. \"De moedervalk vliegt altijd weg als de balkondeur opengaat en daardoor zagen we dat er een ei was uitgekomen\", zegt hij tegen Omroep Zeeland. \nEcht bijzonder\n Volgens de Werkgroep Roofvogels Zeeland is de situatie op het balkon uniek. \"Het is echt bijzonder dat deze valken een balkon in de stad hebben uitgekozen. In Oost-Europa zie je het heel soms wel eens, maar in Nederland niet\", zegt een medewerker. De torenvalk staat sinds 2017 op de lijst van bedreigde soorten. De verwachting is dat de rest van de eieren de komende dagen uitkomt.",
+        "ctx_tags": [
+            {
+                "tag": "terneuzen",
+                "score": 0.5301
+            },
+            {
+                "tag": "uniek",
+                "score": 0.4682
+            },
+            {
+                "tag": "past",
+                "score": 0.447
+            },
+            {
+                "tag": "uitgekomen",
+                "score": 0.4415
+            },
+            {
+                "tag": "geboren",
+                "score": 0.4401
+            }
+        ],
+        "img": "https://cdn.nos.nl/image/2021/06/25/756503/2560x1440a.jpg",
+        "img_caption": "een groep blauwe en witte ballonnen",
+        "img_tags": [
+            {
+                "tag": "gras",
+                "score": 0.9985
+            },
+            {
+                "tag": "openlucht",
+                "score": 0.9905
+            },
+            {
+                "tag": "steen",
+                "score": 0.9745
+            },
+            {
+                "tag": "bal",
+                "score": 0.7693
+            },
+            {
+                "tag": "kerstboom",
+                "score": 0.6417
+            }
+        ],
+        "type_name": "een krant of nieuwswebsite"
+    }
+]
