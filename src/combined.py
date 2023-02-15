@@ -62,5 +62,5 @@ if __name__ == '__main__':
         exit(0)
     res = full_analysis(sys.argv[1])
 
-    # Appends to the JSON object located in the other project. Update the path accordingly when running this code
-    append_to_json(res, '../frankvollebregt.github.io/data.json')
+    # Appends to the JSON object located in the webpage project. Update the path accordingly when running this code
+    append_to_json(res, 'image_description_tool/data.json')

@@ -1,0 +1,92 @@
+[
+    {
+        "ctx_title": "Breinquiz",
+        "ctx_url": "https://www.nemosciencemuseum.nl/nl/onderwijs/voortgezet-onderwijs/lesmateriaal/lesmateriaal/biologie-voor-vo-biowetenschappen-en-maatschappij/",
+        "ctx_caption": "-",
+        "ctx": "4. Met welke scans zijn de afbeelding hieronder gemaakt?\n\nA\na. MRI-scan\nb. fMRI-scan\nc. CT-scan\nd. PET-scan\n\nB\na. PET-scan\nb. CT-scan\nc. MRI-scan\nd. fMRI-scan",
+        "ctx_tags": [
+            {
+                "tag": "ct",
+                "score": 0.5975
+            },
+            {
+                "tag": "scans",
+                "score": 0.5864
+            },
+            {
+                "tag": "fmri",
+                "score": 0.5826
+            },
+            {
+                "tag": "scan",
+                "score": 0.5772
+            },
+            {
+                "tag": "gemaakt",
+                "score":0.5435
+            }
+        ],
+        "img": "edu3.png",
+        "img_caption": "diagram",
+        "img_tags": [
+            {
+                "tag": "text",
+                "score": 0.8473471403121948
+            }
+        ],
+        "type_name": "een educatief lesprogramma"
+    },
+    {
+        "ctx_title": "Grot van Cosquer",
+        "ctx_url": "https://nl.wikipedia.org/wiki/Grot_van_Cosquer",
+        "ctx_caption": "Grot van Cosquer",
+        "ctx": "De Grot van Cosquer is een grot die zo'n 37 meter onder water ligt en waar tekeningen van dieren zijn aangebracht, net zoals in de grotten van Lascaux. De grot ligt in de Calanque de Morgiou, dicht bij Marseille. De tekeningen kunnen worden gedateerd rond 18.500 v. Chr. en zijn nog goed zichtbaar, al ligt de grot al zo lang onder water. Toen deze tekeningen gemaakt werden in de prehistorie lag deze grot nog niet onder water. De grot werd in 1985 ontdekt door Henri Cosquer, maar de tekeningen werden pas in 1991 bekend voor het grote publiek.",
+        "ctx_tags": [
+            {
+                "tag": "bekend",
+                "score": 0.5965
+            },
+            {
+                "tag": "lag",
+                "score": 0.5797
+            },
+            {
+                "tag": "grot",
+                "score": 0.5763
+            },
+            {
+                "tag": "dieren",
+                "score": 0.5629
+            },
+            {
+                "tag": "water",
+                "score": 0.5601
+            }
+        ],
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Prehistoric_Hand_Outline_Cosquer_Cave.JPG/1024px-Prehistoric_Hand_Outline_Cosquer_Cave.JPG",
+        "img_caption": "a yellow and black tree",
+        "img_tags": [
+            {
+                "tag": "openlucht",
+                "score": 0.9880
+            },
+            {
+                "tag": "boom",
+                "score": 0.9816
+            },
+            {
+                "tag": "tekening",
+                "score": 0.8795
+            },
+            {
+                "tag": "handschrift",
+                "score": 0.7302
+            },
+            {
+                "tag": "abstract",
+                "score": 0.7116
+            }
+        ],
+        "type_name": "een informatief boek of tijdschrift"
+    }
+]
