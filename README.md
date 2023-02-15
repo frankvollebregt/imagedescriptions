@@ -21,3 +21,9 @@ python azure.py dog.jpg
 ```
 ## Just Azure
 Microsoft has also put the analyze image service online, to be used freely, if the only thing you're interested in is the image analysis. You can find it [on this website](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/#features).
+
+## Image Description Tool
+The source code of the image description tool (the user interface used for the experiment) can be found in [src/image_description_tool/](https://github.com/frankvollebregt/imagedescriptions/tree/main/src/image_description_tool).
+
+## Experiment Result Analysis
+The notebook code and raw experiment result data can be found in [src/experiment_result_analysis](https://github.com/frankvollebregt/imagedescriptions/tree/main/src/experiment_result_analysis).
